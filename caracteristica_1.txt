@@ -3,3 +3,5 @@ Aquí añado mis cambios de la caracteristica 1
 CAMBIO REALIZADO EN LA RAMA 2.
 
 Cambio realizado en la Rama "fastforward".
+
+CAMBIO REALIZADO EN LA RAMA "merge-commit".
