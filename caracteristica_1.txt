@@ -9,3 +9,5 @@ CAMBIO REALIZADO EN LA RAMA "merge-commit".
 Cambio OLVIDADO.
 
 Cambio realizado después de haber configurado el SERVIDOR REMOTO(Local).
+
+Cambio para hacer un Commit And Push (Push HEAD... ).
